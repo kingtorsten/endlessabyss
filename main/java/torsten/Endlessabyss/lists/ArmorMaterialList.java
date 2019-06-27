@@ -1,12 +1,13 @@
 package torsten.Endlessabyss.lists;
 
+import com.github.kingtorsten.endlessabyss.EndlessAbyss;
+
 import net.minecraft.inventory.EntityEquipmentSlot;
 import net.minecraft.item.IArmorMaterial;
 import net.minecraft.item.Item;
 import net.minecraft.item.crafting.Ingredient;
 import net.minecraft.util.ResourceLocation;
 import net.minecraft.util.SoundEvent;
-import torsten.Endlessabyss.EndlessAbyss;
 
 public enum ArmorMaterialList implements IArmorMaterial
 {
