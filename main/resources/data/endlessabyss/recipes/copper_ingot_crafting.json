@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": 
+	[
+		{ "item": "endlessabyss:copper_block" }
+	],
+	"result": {
+		"item": "endlessabyss:copper_ingot",
+		"count": 9
+	}
+}

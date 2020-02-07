@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"DDW",
+		"WR ",
+		" I "
+	],
+	
+	"key":
+	{
+		"D": { "item": "minecraft:diamond" },
+		"R": { "item": "endlessabyss:redstone_crystal" },
+		"I": { "item": "endlessabyss:titanium_ingot" },
+		"W": { "item": "endlessabyss:copper_wire" }		
+	},
+	
+	"result": {"item": "endlessabyss:electric_hoe" } 
+}

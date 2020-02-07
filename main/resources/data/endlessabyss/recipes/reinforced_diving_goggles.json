@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"IRI",
+		"DGD",
+		"IRI"
+	],
+	
+	"key":
+	{
+		"G": { "item": "endlessabyss:diving_goggles" },
+		"R": { "item": "endlessabyss:redtone_crystal" },
+		"D": { "item": "minecraft_diamond" },	
+		"I": { "item": "endlessabyss:titanium_ingot" }
+	},
+	
+	"result": {"item": "endlessabyss:reinforced_diving_goggles" } 
+}

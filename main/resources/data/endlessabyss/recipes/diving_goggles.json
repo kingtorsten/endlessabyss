@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"D D",
+		"GDG",
+		"D D"
+	],
+	
+	"key":
+	{
+		"D": { "item": "endlessabyss:diving_leather" },
+		"G": { "item": "minecraft:glass_pane" }
+	},
+	
+	"result": {"item": "endlessabyss:diving_goggles" } 
+}

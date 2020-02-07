@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"IRI",
+		"DWD",
+		"IRI"
+	],
+	
+	"key":
+	{
+		"W": { "item": "endlessabyss:wetsuit_leggings" },
+		"R": { "item": "endlessabyss:redtone_crystal" },
+		"D": { "item": "minecraft_diamond" },	
+		"I": { "item": "endlessabyss:titanium_ingot" }
+	},
+	
+	"result": {"item": "endlessabyss:reinforced_wetsuit_leggings" } 
+}

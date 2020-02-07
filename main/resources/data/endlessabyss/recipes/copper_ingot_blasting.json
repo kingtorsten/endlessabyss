@@ -1,0 +1,7 @@
+{
+	"type": "minecraft:blasting",
+	"ingredient": { "tag": "endlessabyss:copper_ore" },
+	"result": "endlessabyss:copper_ingot",
+	"experience": 2.3,
+	"cookingtime": 300
+}

@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients":
+	[
+		{ "item": "endlessabyss:titanium_block" }
+	],
+	"result": {
+		"item": "endlessabyss:titanium_ingot",
+	    "count": 9
+	}
+}

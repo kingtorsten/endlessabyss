@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"DDD",
+		"DDD",
+		"D D"
+	],
+	
+	"key":
+	{
+		"D": { "item": "endlessabyss:diving_leather" }
+	},
+	
+	"result": {"item": "endlessabyss:wetsuit_leggings" } 
+}
